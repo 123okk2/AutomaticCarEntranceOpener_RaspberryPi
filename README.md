@@ -34,10 +34,8 @@ Geolocation API
 
 
 ## Made By
-* 어플리케이션 : 이민우, 서동환
-* 서버 : 최재혁, 서동환
-* 데이터베이스 : 서동환
-* 인공지능 : 김강운, 최재혁
+* 이민우 : 어플리케이션 전반, 아마존 다이나모디비-라즈베리 파이 연동
+* 전우성 : 라즈베리 파이 전반
 
 ## Application
 https://github.com/123okk2/AutomaticCarEntranceOpener_Application
